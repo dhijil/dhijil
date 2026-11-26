@@ -1,6 +1,6 @@
 # Dhijil Davis
 
-Full Stack Developer | Building practical web applications using Python, React, Node.js, TypeScript, Flask, JavaScript & SQL.
+Building practical web applications using Python, React, Node.js, TypeScript, Flask, JavaScript & SQL.
 
 📍 Thrissur, Kerala, India • [GitHub](https://github.com/dhijil)
 
@@ -8,7 +8,7 @@ Full Stack Developer | Building practical web applications using Python, React, 
 
 ## About Me
 
-I am a **Full Stack Developer** and Data Science student (2024–2027) focused on building practical, database-driven web applications. My project work spans end-to-end web platforms built with **Python (Django, Flask)**, **SQL (PostgreSQL, SQLite)**, and **HTML/CSS/JavaScript**, alongside modern frontend and backend development with **React**, **TypeScript**, and **Node.js**.
+I am a  Data Science student (2024–2027) focused on building practical, database-driven web applications. My project work spans end-to-end web platforms built with **Python (Django, Flask)**, **SQL (PostgreSQL, SQLite)**, and **HTML/CSS/JavaScript**, alongside modern frontend and backend development with **React**, **TypeScript**, and **Node.js**.
 
 I enjoy designing clear user interfaces, structuring relational databases, and connecting backend APIs into reliable full-stack software. Currently open to **Full Stack Developer** and **Software Engineering Internship** opportunities.
 
