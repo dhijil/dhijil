@@ -20,9 +20,9 @@ I enjoy designing clear user interfaces, structuring relational databases, and c
 | :--- | :--- |
 | **Frontend** | React, TypeScript, JavaScript, HTML5, CSS3, Django Templates, Chart.js |
 | **Backend** | Python, Django, Flask, Node.js, REST APIs, Role-Based Authentication |
-| **Databases** | PostgreSQL (`psycopg2`), SQLite, SQL |
+| **Databases** | PostgreSQL , SQL |
 | **Programming Languages** | Python, JavaScript, TypeScript, SQL |
-| **Tools** | Git, GitHub, Vite, `bcrypt`, Scikit-learn, Librosa |
+| **Tools** | Git, GitHub, Vite, Scikit-learn, Librosa |
 
 ---
 
